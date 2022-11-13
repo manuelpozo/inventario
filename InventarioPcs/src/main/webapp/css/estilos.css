@@ -1,0 +1,18 @@
+@charset "UTF-8";
+@import url("fonts.css");
+
+/*	Se pueden usar en bottstrap los siguientes colores
+	--Gris_claro: #e7e7e7;
+	--Gris:#c0c7cc;
+	--Gris_oscuro:#465564;
+	
+	--Amarillo: #eba41b;
+	--Amarillo_oscuro: #cd9841;
+	--Azul_oscuro: #384d98;
+	--Azul_claro: #377c99;*/
+
+/* estilos universales */
+*{
+    font-family: "Raleway", san-serif;
+}
+

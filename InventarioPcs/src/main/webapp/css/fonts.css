@@ -1,0 +1,5 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway/Raleway-VariableFont_wght.ttf") format("woff2");
+}
